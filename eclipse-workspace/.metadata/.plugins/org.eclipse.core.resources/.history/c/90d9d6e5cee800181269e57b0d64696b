@@ -1,0 +1,28 @@
+package com.pappu.downcasting;
+
+public class MainRunner
+{
+	public static void main(String[] args) 
+	{
+		Shape sh=new Shape();
+		if(sh instanceof Circle)
+		{
+			System.out.println("It is circle");
+			Circle c=(Circle)sh;
+			System.out.println("Circle area is "+c.circleArea());
+		}
+		else if(sh instanceof Square)
+		{
+			System.out.println("It is Square");
+			Square sq=(Square)sh;
+			System.out.println("Square area is "+sq.squareArea());
+		}
+		else if(sh instanceof Rectangle)
+		{
+			System.out.println("It is rectangle");
+			Rectangle r=(Rectangle)sh;
+			System.out.println("Rectangle area is "+r.rectangleArea());
+		}
+	}
+
+}

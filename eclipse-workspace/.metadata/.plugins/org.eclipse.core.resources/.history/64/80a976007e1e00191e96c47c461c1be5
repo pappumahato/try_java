@@ -1,0 +1,7 @@
+/*A sentence containing every letter of the alphabet*/
+
+package strings;
+
+public class Panagram {
+
+}

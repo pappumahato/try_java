@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.pappu.method_overriding.VolvoBus"/>
+<fullyQualifiedTypeName name="com.pappu.method_overriding.Bus"/>
+<fullyQualifiedTypeName name="com.pappu.method_overriding.FruitBread"/>
+<fullyQualifiedTypeName name="com.pappu.method_overriding.Bread"/>
+<fullyQualifiedTypeName name="com.pappu.method_overriding.ToastedBread"/>
+<fullyQualifiedTypeName name="java.lang.Object"/>
+<fullyQualifiedTypeName name="com.pappu.method_overriding.Animal"/>
+<fullyQualifiedTypeName name="com.pappu.downcasting.Truck"/>
+<fullyQualifiedTypeName name="com.pappu.downcasting.Vehicle"/>
+<fullyQualifiedTypeName name="com.pappu.downcasting.Bracelet"/>
+<fullyQualifiedTypeName name="upcasting.Customer"/>
+<fullyQualifiedTypeName name="com.sorting.BubbleDownSorting"/>
+<fullyQualifiedTypeName name="java.time.Instant"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="javax.swing.text.StyledEditorKit.ForegroundAction"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+</qualifiedTypeNameHistroy>
